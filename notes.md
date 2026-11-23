@@ -1,0 +1,2 @@
+- Target encoding ['Fuel type', 'model'] improve the result significantly 
+- log the price hurts the model
